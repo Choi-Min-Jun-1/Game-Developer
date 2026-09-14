@@ -84,7 +84,7 @@ GitHub를 통한 버전 관리와 코드 피드백을 경험했으며, 팀원들
 **👥 팀**: 개인 프로젝트 <br><br>
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/uR3xFIhhQsY/0.jpg)](https://www.youtube.com/watch?v=uR3xFIhhQsY)  <br>
-**💻 GitHub Repository**:  
+**💻 GitHub Repository**:  <br>
 - [Source Code](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Source)<br>
 - [Android APK](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk)<br>
 
