@@ -23,18 +23,16 @@
 
 
 ---
-## 2. 실시간 NPC 대화·음악 시스템
-**📅 기간**: 2025.11.17 ~ 2025.11.21<br>
-**🧑‍💻 역할**: 기획, 프로그래머<br>
-**👥 팀**: 없음 <br><br>
-**🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**: 사용자의 입력을 기반으로 AI가 NPC 대사를 생성하고, 대화의 분위기에 따라 BGM을 생성·재생하는 Unity 기반 AI 인터랙션 시스템을 구현했습니다.<br>
-Gemini API와 MusicGen Server를 Unity와 연동하고 Coroutine 기반 비동기 처리 구조를 구성해 대화 생성부터 음악 재생까지 하나의 흐름으로 연결했습니다.<br>
-외부 AI API의 결과를 Unity Runtime의 실제 콘텐츠 변화에 반영하며, AI 기능과 실시간 3D 콘텐츠를 연동하는 시스템을 구축했습니다.<br><br>
-**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server  <br>
 
+## 2. 퍼즐 게임
+**📅 기간**: 2024.03.01 ~ 2024.10.31<br>
+**🧑‍💻 역할**: 프로그래머<br>
+**👥 팀**: 프로그래머 2인 <br><br>
+**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/puzzle-game) <br><br>
+**📝 설명**: 3인 팀으로 진행한 Unity 프로젝트로, 색상과 상태 조건에 따라 결과가 달라지는 퍼즐 로직과 클리어 구조를 구현했습니다.<br>
+Animator와 Physics를 활용해 객체 상태 변화와 물리 상호작용을 구성하고, 사용자의 입력에 따라 퍼즐 상태가 변화하도록 구현했습니다.<br>
+GitHub를 활용해 버전 관리와 코드 피드백을 진행했으며, 팀원들과 기능을 분담하고 개발 과정에서 발생한 문제를 함께 해결했습니다. <br><br>
+**⚙️ 주요 기술**: Unity, C#, FSM, Animator, Physics<br>
 ---
 
 ## 3. FPS 미니게임
@@ -49,17 +47,19 @@ Raycast 기반 사격 시스템과 7종의 아이템 효과를 직접 구현하�
 또한 처음 개발을 접하는 팀원에게 시스템 구조와 구현 방식을 설명하고 코드 이해를 지원하며, 기능을 함께 개발하고 문제를 해결하는 협업 경험을 쌓았습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, Raycast, Coroutine, UI, Audio<br>
 
----
 
-## 4. 퍼즐 게임
-**📅 기간**: 2024.03.01 ~ 2024.10.31<br>
-**🧑‍💻 역할**: 프로그래머<br>
-**👥 팀**: 프로그래머 2인 <br><br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/puzzle-game) <br><br>
-**📝 설명**: 3인 팀으로 진행한 Unity 프로젝트로, 색상과 상태 조건에 따라 결과가 달라지는 퍼즐 로직과 클리어 구조를 구현했습니다.<br>
-Animator와 Physics를 활용해 객체 상태 변화와 물리 상호작용을 구성하고, 사용자의 입력에 따라 퍼즐 상태가 변화하도록 구현했습니다.<br>
-GitHub를 활용해 버전 관리와 코드 피드백을 진행했으며, 팀원들과 기능을 분담하고 개발 과정에서 발생한 문제를 함께 해결했습니다. <br><br>
-**⚙️ 주요 기술**: Unity, C#, FSM, Animator, Physics<br>
+---
+## 4. 실시간 NPC 대화·음악 시스템
+**📅 기간**: 2025.11.17 ~ 2025.11.21<br>
+**🧑‍💻 역할**: 기획, 프로그래머<br>
+**👥 팀**: 없음 <br><br>
+**🎬 개발 및 구현 영상**:  <br>
+[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
+**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
+**📝 설명**: 사용자의 입력을 기반으로 AI가 NPC 대사를 생성하고, 대화의 분위기에 따라 BGM을 생성·재생하는 Unity 기반 AI 인터랙션 시스템을 구현했습니다.<br>
+Gemini API와 MusicGen Server를 Unity와 연동하고 Coroutine 기반 비동기 처리 구조를 구성해 대화 생성부터 음악 재생까지 하나의 흐름으로 연결했습니다.<br>
+외부 AI API의 결과를 Unity Runtime의 실제 콘텐츠 변화에 반영하며, AI 기능과 실시간 3D 콘텐츠를 연동하는 시스템을 구축했습니다.<br><br>
+**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server  <br>
 
 ---
 
