@@ -84,8 +84,12 @@ GitHub를 통한 버전 관리와 코드 피드백을 경험했으며, 팀원들
 **👥 팀**: 개인 프로젝트 <br><br>
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/uR3xFIhhQsY/0.jpg)](https://www.youtube.com/watch?v=uR3xFIhhQsY)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk) <br><br>
+**💻 GitHub Repository**:  
+- [Source Code](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Source)<br>
+- [Android APK](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk)<br><br>
 **📝 설명**: Unity 기반 Android 3D 환경에서 사용자가 자유롭게 입력한 문장에 AI NPC가 실시간으로 대답하고 음성으로 출력하는 인터랙션 프로젝트를 진행했습니다.<br>
 Gemini API를 활용해 NPC의 캐릭터 설정에 맞는 대사를 생성하고, Google Cloud Text-to-Speech를 연동해 생성된 대사를 음성으로 재생하도록 구현했습니다.<br>
-Google Apps Script를 중계 계층으로 구성해 Unity와 외부 AI API의 요청·응답 흐름을 연결했으며, Android APK로 빌드하여 이동, NPC 상호작용, 대화 입력, AI 응답 및 음성 재생까지 실제 실행 환경에서 확인했습니다.<br>
+Google Apps Script를 AI Gateway로 구성해 Unity와 외부 AI API의 요청·응답 흐름을 분리했으며, Android APK 환경에서 이동, NPC 상호작용, 대화 입력, AI 응답 및 음성 재생까지 확인했습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, Gemini API, Google Cloud Text-to-Speech, Google Apps Script<br>
+
+---
