@@ -14,11 +14,7 @@
 **🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 디자이너 1인<br><br>
 **🎬 개발 및 구현 영상**:  <br>
-(https://www.youtube.com/watch?v=JgRZtCDci7s)<br>
-
-<a href="https://www.youtube.com/watch?v=JgRZtCDci7s">
-  <img src="https://img.youtube.com/vi/JgRZtCDci7s/0.jpg" width="320">
-</a>
+[![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)
 
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
 **📝 설명**: 3년간 진행한 Unity 기반 3D 프로젝트로, 캐릭터 조작부터 전투, AI, 아이템, UI까지 게임을 구성하는 주요 기능을 직접 구현했습니다.<br>
