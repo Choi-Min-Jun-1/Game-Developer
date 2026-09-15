@@ -14,9 +14,13 @@
 **🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 디자이너 1인<br><br>
 **🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  <br>
+(https://www.youtube.com/watch?v=JgRZtCDci7s)<br>
+
+<a href="https://www.youtube.com/watch?v=JgRZtCDci7s">
+  <img src="https://img.youtube.com/vi/JgRZtCDci7s/0.jpg" width="360">
+</a><br><br>  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
-**📝 설명**: 3 3년간 진행한 Unity 기반 3D 프로젝트로, 캐릭터 조작부터 전투, AI, 아이템, UI까지 게임을 구성하는 주요 기능을 직접 구현했습니다.<br>
+**📝 설명**: 3년간 진행한 Unity 기반 3D 프로젝트로, 캐릭터 조작부터 전투, AI, 아이템, UI까지 게임을 구성하는 주요 기능을 직접 구현했습니다.<br>
 캐릭터 이동과 근·원거리 무기 전환, 애니메이션, FSM 및 NavMesh 기반 적 AI, 상태 변화 시스템을 구현하고 여러 기능이 하나의 플레이 흐름으로 연결되도록 구성했습니다.<br>
 기능이 점차 늘어나는 과정에서는 코드 구조를 기능별로 분리하고 모듈화하여, 유지보수와 기능 확장을 고려한 구조로 개선했습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Coroutine, Raycast, NavMesh  <br>
