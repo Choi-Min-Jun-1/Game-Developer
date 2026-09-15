@@ -17,8 +17,8 @@
 (https://www.youtube.com/watch?v=JgRZtCDci7s)<br>
 
 <a href="https://www.youtube.com/watch?v=JgRZtCDci7s">
-  <img src="https://img.youtube.com/vi/JgRZtCDci7s/0.jpg" width="360">
-</a><br><br>  <br>
+  <img src="https://img.youtube.com/vi/JgRZtCDci7s/0.jpg" width="320">
+</a>
 
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
 **📝 설명**: 3년간 진행한 Unity 기반 3D 프로젝트로, 캐릭터 조작부터 전투, AI, 아이템, UI까지 게임을 구성하는 주요 기능을 직접 구현했습니다.<br>
