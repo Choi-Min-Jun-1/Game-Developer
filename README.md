@@ -8,9 +8,9 @@ TPS 로그라이크 게임을 중심으로 전투, AI, 상태 관리, UI 등 주
 ---
 
 ## 1. TPS 로그라이크 게임
-📅 개발 기간: 2022.09.20 ~ 2025.03.01
-🧑‍💻 담당 역할: 기획 및 프로그래밍
-👥 팀 구성: 프로그래머 1인, 디자이너 1인
+📅 개발 기간: 2022.09.20 ~ 2025.03.01<br>
+🧑‍💻 담당 역할: 기획 및 프로그래밍<br>
+👥 팀 구성: 프로그래머 1인, 디자이너 1인<br>
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)
 
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
