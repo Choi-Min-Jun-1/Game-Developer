@@ -59,17 +59,32 @@ Unity의 입력, 상태 관리, AI, 애니메이션 등 주요 기능을 직접 
 ---
 
 ## 3. FPS 미니게임
-**📅 기간**: 2024.09.01 ~ 2024.09.30<br>
-**🧑‍💻 역할**: 기획, 프로그래머, 멘토<br>
-**👥 팀**: 프로그래머 1인<br><br>
-**🎬 개발 및 구현 영상**: <br>
-[![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/fps-minigame)<br><br>
-**📝 설명**: 무료 에셋만 활용하는 조건에서 기획부터 구현까지 단기간에 완성한 Unity 프로젝트입니다.<br>
-Raycast 기반 사격 시스템과 7종의 아이템 효과를 직접 구현하고, 입력 처리, 객체 상호작용, UI 및 Audio가 연동되도록 구성했습니다.<br>
-또한 처음 개발을 접하는 팀원에게 시스템 구조와 구현 방식을 설명하고 코드 이해를 지원하며, 기능을 함께 개발하고 문제를 해결하는 협업 경험을 쌓았습니다.<br><br>
-**⚙️ 주요 기술**: Unity, C#, Raycast, Coroutine, UI, Audio<br>
 
+**📅 기간:** 2024.09.01 ~ 2024.09.30<br>
+**🧑‍💻 역할:** 기획, 프로그래밍, 멘토링<br>
+**👥 팀:** 프로그래머 1인 (개발 입문 팀원 지원)<br><br>
+
+**🎬 개발 및 구현 영상:**<br>
+[![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)
+
+**💻 GitHub Repository:** [프로젝트](https://github.com/choiminjun-coder/fps-minigame)<br><br>
+
+### 📝 개요
+무료 에셋만 활용하는 조건에서 약 한 달간 기획부터 구현까지 진행한 Unity 기반 FPS 미니게임입니다.<br><br>
+
+### ⚙️ 개발 과정
+- **사격 시스템:** Raycast 기반 사격 및 피격 처리 구현
+- **아이템 시스템:** 7종의 아이템 효과와 상태 변화 기능 구현
+- **게임플레이 연동:** 사용자 입력, 객체 상호작용, UI 및 Audio 연결
+- **멘토링:** 개발 입문 팀원에게 코드 구조와 구현 방법을 설명하고 기능 개발 지원
+
+<br>
+
+### 🔧 개발 경험
+제한된 기간과 리소스 안에서 핵심 게임플레이 기능을 구현하고, 여러 시스템을 하나의 플레이 흐름으로 연결하는 경험을 쌓았습니다.<br>
+또한 개발 입문 팀원의 코드 이해와 문제 해결을 지원하며 기술 설명과 협업을 경험했습니다.<br><br>
+
+---
 
 ---
 ## 4. 실시간 NPC 대화·음악 시스템
