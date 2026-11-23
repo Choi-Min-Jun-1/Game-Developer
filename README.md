@@ -87,47 +87,49 @@ Unity의 입력, 상태 관리, AI, 애니메이션 등 주요 기능을 직접 
 ---
 
 ---
-## 4. 실시간 NPC 대화·음악 시스템
-**📅 기간**: 2025.11.17 ~ 2025.11.21<br>
-**🧑‍💻 역할**: 기획, 프로그래머<br>
-**👥 팀**: 없음 <br><br>
-**🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**: 사용자의 입력을 기반으로 AI가 NPC 대사를 생성하고, 대화의 분위기에 따라 BGM을 생성·재생하는 Unity 기반 AI 인터랙션 시스템을 구현했습니다.<br>
-Gemini API와 MusicGen Server를 Unity와 연동하고 Coroutine 기반 비동기 처리 구조를 구성해 대화 생성부터 음악 재생까지 하나의 흐름으로 연결했습니다.<br>
-외부 AI API의 결과를 Unity Runtime의 실제 콘텐츠 변화에 반영하며, AI 기능과 실시간 3D 콘텐츠를 연동하는 시스템을 구축했습니다.<br><br>
-**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server  <br>
+
+## 4. MIO: Akihabara AI Talk
+
+**📅 기간:** 2026.08.03 ~ 2026.08.05<br>
+**🧑‍💻 역할:** 기획, 프로그래밍<br>
+**👥 팀:** 개인 프로젝트<br>
+**🎯 목적:** 게임잡 참가를 위한 단기 개발 프로젝트<br><br>
+
+**🎬 개발 및 구현 영상:**<br>
+[![영상보기](https://img.youtube.com/vi/uR3xFIhhQsY/0.jpg)](https://www.youtube.com/watch?v=uR3xFIhhQsY)
+
+**💻 GitHub Repository:** [Source Code](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Source) | [Android APK](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk)<br><br>
+
+### 📝 개요
+게임잡 참가를 위해 짧은 기간 동안 제작한 Unity 기반 Android 3D 프로젝트입니다. 사용자가 입력한 문장에 AI NPC가 응답하고, 생성된 대사를 음성으로 출력하는 기능을 구현했습니다.<br><br>
+
+2025년 진행한 NPC 대화·음악 생성 실험에서 얻은 외부 API 연동 경험을 바탕으로, Android 환경에서 실제 실행 가능한 애플리케이션으로 개발 범위를 확장했습니다.<br><br>
+
+### ⚙️ 개발 과정
+- **3D 환경 및 상호작용:** Unity 기반 캐릭터 이동, NPC 상호작용 및 대화 입력 UI 구현
+- **AI 대화 및 음성 출력:** Gemini API로 NPC 대사를 생성하고, Google Cloud Text-to-Speech를 연동해 음성으로 재생
+- **API 연동 구조:** Google Apps Script를 Gateway로 구성하여 Unity 클라이언트와 외부 AI 서비스의 요청·응답 경로 분리
+- **Android 실행 검증:** APK 빌드 후 이동, 대화 입력, AI 응답 및 음성 재생까지 전체 기능 확인
+
+<br>
+
+### 🔧 개발 경험
+기존 AI 연동 실험에서 익힌 기술을 활용해 제한된 개발 기간 안에 Android 애플리케이션을 구현했습니다.<br>
+외부 서비스 연동부터 클라이언트 기능 구현, APK 빌드와 동작 검증까지 직접 진행하며 새로운 환경에서도 개발을 이어가는 경험을 쌓았습니다.<br><br>
+
+### 🔬 선행 기술 실험: NPC 대화·음악 생성 시스템
+
+**📅 기간:** 2025.11.17 ~ 2025.11.21<br>
+**🧑‍💻 역할:** 기획, 프로그래밍 (개인 프로젝트)<br><br>
+
+MIO에 앞서 Unity와 Gemini API, MusicGen Server를 연동하여 사용자의 입력에 따라 NPC 대사와 배경음악을 생성·재생하는 시스템을 개발했습니다.<br>
+Coroutine 기반 비동기 처리를 활용해 외부 서비스의 응답을 Unity 실행 환경에 반영하는 흐름을 구성했습니다.<br><br>
+
+**🎬 개발 및 구현 영상:**<br>
+[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)
+
+**💻 GitHub Repository:** [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
 
 ---
-
-## 5. Unity ML-Agents 강화학습
-**📅 기간**: 2026.01.02 ~ 2026.01.28<br>
-**🧑‍💻 역할**: 강화학습 시스템 설계 및 개발, 기술 교육 자료 제작 <br>
-**👥 팀**: 프로그래머 1인 <br><br>
-**🎬 개발 및 구현 영상**: <br>
-[![영상보기](https://img.youtube.com/vi/eOJz3_gD0i4/0.jpg)](https://www.youtube.com/watch?v=eOJz3_gD0i4)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/Unity-MLAgents-Autonomous-Vehicles) <br><br>
-**📝 설명**: Unity ML-Agents 기반으로 드론과 자동차 에이전트를 구현하고, Ray 기반 관찰값과 연속형 Action을 설계해 목표 지점에 도달하도록 학습시키는 강화학습 프로젝트입니다.<br>
-학습 환경에서 관찰–행동–보상 흐름을 직접 구성하고, 목표 탐지·접근·충돌·시간 제한 등 상황별 Reward를 설계해 에이전트가 안정적으로 학습할 수 있도록 환경을 구성했습니다.<br>
-Unity를 AI 에이전트의 학습과 동작을 검증하는 3D 시뮬레이션 환경으로 활용했습니다.<br><br>
-**⚙️ 주요 기술**: Unity, C#, Unity ML-Agents <br>
-
----
-
-## 6. MIO: Akihabara AI Talk
-**📅 기간**: 2026.08.03 ~ 2026.08.05<br>
-**🧑‍💻 역할**: 기획, 프로그래머<br>
-**👥 팀**: 개인 프로젝트 <br><br>
-**🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/uR3xFIhhQsY/0.jpg)](https://www.youtube.com/watch?v=uR3xFIhhQsY)  <br>
-**💻 GitHub Repository**:  <br>
-- [Source Code](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Source)<br>
-- [Android APK](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk)<br>
-
-**📝 설명**: Unity 기반 Android 3D 환경에서 사용자가 자유롭게 입력한 문장에 AI NPC가 실시간으로 응답하고 음성으로 출력하는 인터랙션 시스템을 구현했습니다.<br>
-Gemini API를 활용해 NPC의 캐릭터 설정에 맞는 대사를 생성하고, Google Cloud Text-to-Speech를 연동해 생성된 대사를 실시간 음성으로 재생하도록 구성했습니다.<br>
-Google Apps Script를 AI Gateway로 구성해 Unity와 외부 AI API의 요청·응답 흐름을 분리했으며, Android APK 환경에서 이동, NPC 상호작용, 대화 입력, AI 응답 및 음성 재생까지 전체 흐름을 직접 구현하고 검증했습니다.<br><br>
-**⚙️ 주요 기술**: Unity, C#, Gemini API, Google Cloud Text-to-Speech, Google Apps Script<br>
 
 ---
