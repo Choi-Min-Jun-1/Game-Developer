@@ -93,7 +93,7 @@ Unity의 입력, 상태 관리, AI, 애니메이션 등 주요 기능을 직접 
 **📅 기간:** 2026.08.03 ~ 2026.08.05<br>
 **🧑‍💻 역할:** 기획, 프로그래밍<br>
 **👥 팀:** 개인 프로젝트<br>
-**🎯 목적:** 게임잡 참가를 위한 단기 개발 프로젝트<br><br>
+**🎯 목적:** 게임잼 참가를 위한 단기 개발 프로젝트<br><br>
 
 **🎬 개발 및 구현 영상:**<br>
 [![영상보기](https://img.youtube.com/vi/uR3xFIhhQsY/0.jpg)](https://www.youtube.com/watch?v=uR3xFIhhQsY)
@@ -101,7 +101,7 @@ Unity의 입력, 상태 관리, AI, 애니메이션 등 주요 기능을 직접 
 **💻 GitHub Repository:** [Source Code](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Source) | [Android APK](https://github.com/Choi-Min-Jun-1/MIO_Akihabara_AI_Talk_Apk)<br><br>
 
 ### 📝 개요
-게임잡 참가를 위해 짧은 기간 동안 제작한 Unity 기반 Android 3D 프로젝트입니다. 사용자가 입력한 문장에 AI NPC가 응답하고, 생성된 대사를 음성으로 출력하는 기능을 구현했습니다.<br><br>
+게임잼 참가를 위해 짧은 기간 동안 제작한 Unity 기반 Android 3D 프로젝트입니다. 사용자가 입력한 문장에 AI NPC가 응답하고, 생성된 대사를 음성으로 출력하는 기능을 구현했습니다.<br><br>
 
 2025년 진행한 NPC 대화·음악 생성 실험에서 얻은 외부 API 연동 경험을 바탕으로, Android 환경에서 실제 실행 가능한 애플리케이션으로 개발 범위를 확장했습니다.<br><br>
 
